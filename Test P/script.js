@@ -1,0 +1,1 @@
+console.log("Real estate page loaded.");
