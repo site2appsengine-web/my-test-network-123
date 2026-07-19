@@ -1,0 +1,6 @@
+body { font-family: Georgia, serif; line-height: 1.6; margin: 0; padding: 0; background: #fafafa; color: #111; }
+header { background: #111; color: #fff; text-align: center; padding: 2rem 0; }
+article { max-width: 600px; margin: 40px auto; padding: 20px; background: #fff; }
+.date { color: #666; font-style: italic; }
+a { color: #2980b9; }
+a:hover { text-decoration: none; }
